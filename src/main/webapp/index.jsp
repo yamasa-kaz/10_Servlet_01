@@ -14,6 +14,8 @@
 <!-- 演習 -->
 <input type = "button" value = "問い合わせ" onClick = "location.href = 'inquiry.jsp'">
 <!-- 演習 -->
+<input type = "button" value = "MySQLServlet" onClick = "location.href = 'MySQLServlet'">
+<!-- 演習 -->
 <br>
 GET通信
 <form method = "get" action = "TestServlet">
